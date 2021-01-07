@@ -1,2 +1,2 @@
 # colour-randomizer
-Aplicação que apresentar uma cor aleatória. 
+Aplicação que apresenta uma cor aleatória. 
